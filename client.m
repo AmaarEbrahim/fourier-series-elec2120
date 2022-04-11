@@ -2,16 +2,16 @@
 % Driver file for the pulse and sawtooth fourier series'
 % 4/11/22
 
-pulse_fourier_hw(10)
+pulse_fourier_func(10)
 
 figure(2)
 
-pulse_fourier_hw(100)
+pulse_fourier_func(100)
 
 figure(3)
 
-sawtooth_fourier_hw(10)
+sawtooth_fourier_func(10)
 
 figure(4)
 
-sawtooth_fourier_hw(100)
+sawtooth_fourier_func(100)
